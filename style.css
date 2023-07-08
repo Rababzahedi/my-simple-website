@@ -5,3 +5,7 @@ div{
     border: 2px solid black;
     box-shadow: 5px 5px 10px greenyellow;
 }
+img{
+    height: 400px;
+    width: 400px;
+}
